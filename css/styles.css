@@ -145,5 +145,5 @@ p {
 .skill-row {
   width: 40%;
   margin: 100px auto 100px auto;
-
+  text-align: justify;
 }
